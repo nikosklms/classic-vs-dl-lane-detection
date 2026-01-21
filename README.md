@@ -97,6 +97,6 @@ img_dir = "images_hybrid/"  # → img_dir = "my_path/"
 
 ---
 
-## 📄 License
+## License
 
 This project is for educational purposes.
