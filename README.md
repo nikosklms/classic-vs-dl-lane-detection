@@ -2,8 +2,6 @@
 
 **Traditional Computer Vision vs YOLOP**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mSE0hwnCSZ7L8kiukyOUtdBlGBHWuUJW?usp=sharing)
-
 ---
 
 ## Authors
